@@ -1,7 +1,7 @@
 
 ### Hi there 👋
 
-#### 😃 I'm a developer and student of the sixth cycle of Cesar Vallejo University - Piura, Peru.
+#### I'm a developer and student of the sixth cycle of Cesar Vallejo University - Piura, Peru.
 
 - 🏢 I'm currently developing an application in Flutter.
 - ⚙️ Mobile application development using Android (Java or Kotlin), Flutter
