@@ -9,9 +9,8 @@
 - 🔧 I like everything related to home automation and microcontrollers
 - ⚡️ Fun fact: I'm a huge fan of Mr.Robot
 
-  </br>
   
-### 📫 Connect with me:
+### Connect with me:
 
   <a href="https://www.instagram.com/marco_timana/" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
@@ -21,7 +20,7 @@
   </a>
  
 
-### ⚡ Languages and Tools:
+### Languages and Tools:
 
 <a href="#" alt="java"><img height="20" src="https://www.flaticon.es/svg/static/icons/svg/226/226777.svg"></a>
 <a href="#" alt="android"><img height="20" src="https://www.flaticon.es/svg/static/icons/svg/888/888839.svg"></a>
