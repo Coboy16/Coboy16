@@ -22,8 +22,8 @@
 
 ### Languages and Tools:
 
-<a href="#" alt="android"><img height="20" src="https://img.icons8.com/color/256/android-studio--v3.png"></a>
-<a href="#" alt="java"><img height="20" src="https://img.icons8.com/color/256/java-coffee-cup-logo.png"></a>
+<a href="#" alt="android"><img height="25" src="https://img.icons8.com/color/256/android-studio--v3.png"></a>
+<a href="#" alt="java"><img height="28" src="https://img.icons8.com/color/256/java-coffee-cup-logo.png"></a>
 <a href="#" alt="dart"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"></a>
 <a href="#" alt="flutter"><img height="20" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg"></a>
 <a href="#" alt="arduino"><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png"></a>
