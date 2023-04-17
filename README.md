@@ -24,8 +24,6 @@
 
 <a href="#" alt="java"><img height="20" src="https://www.flaticon.es/svg/static/icons/svg/226/226777.svg"></a>
 <a href="#" alt="android"><img height="20" src="https://www.flaticon.es/svg/static/icons/svg/888/888839.svg"></a>
-<a href="#" alt="kotlin"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin-logo.svg"></a>
-<a href="#" alt="php"><img height="20" src="https://www.flaticon.com/svg/static/icons/svg/919/919830.svg"></a>
 <a href="#" alt="dart"><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"></a>
 <a href="#" alt="flutter"><img height="20" src="https://cdn.worldvectorlogo.com/logos/flutter-logo.svg"></a>
 <a href="#" alt="arduino"><img height="20" src="https://cdn.freebiesupply.com/logos/large/2x/visual-studio-code-logo-png-transparent.png"></a>
